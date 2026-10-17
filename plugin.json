@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-mira",
-  "version": "1.1.0",
-  "description": "Mira: mira / neutral / neutral / neutral",
+  "version": "1.1.1",
+  "description": "A neutral gray theme with 12px text, small rounded controls, and dense spacing; supports light and dark modes.",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-mira",
   "homepage": "https://ui.shadcn.com/create",
@@ -135,12 +135,12 @@
         "default_locale": "en",
         "translations": {
           "en": {
-            "display_name": "Mira",
-            "description": "Mira: mira / neutral / neutral / neutral"
+            "display_name": "Mira Dense Theme",
+            "description": "A neutral gray theme with 12px text, small rounded controls, and dense spacing; supports light and dark modes."
           },
           "zh": {
-            "display_name": "Mira",
-            "description": "Mira 主题：mira / neutral / neutral / neutral"
+            "display_name": "Mira 紧凑主题",
+            "description": "中性灰阶配色，搭配 12px 字号、小圆角控件和紧凑间距，支持浅色与深色模式。"
           }
         }
       },

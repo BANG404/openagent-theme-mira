@@ -1,8 +1,8 @@
-# Mira
+# Mira Dense Theme
 
-Mira: mira / neutral / neutral / neutral
+A neutral gray theme with 12px text, small rounded controls, and dense spacing; supports light and dark modes.
 
-Install this directory or its release archive in OpenAgent Plugins, then select Mira in General → Appearance. Light/dark and system appearance are supported. User appearance overrides apply last.
+Install this directory or its release archive in OpenAgent Plugins, then select Mira Dense Theme in General → Appearance. Light/dark and system appearance are supported. User appearance overrides apply last.
 
 Requires the OpenAgent theme-fonts-v1 capability. This is a Svelte/Bits UI adaptation of the upstream visual grammar; React component libraries and icon libraries are not switched by a theme. Fonts and licenses are bundled in this plugin under fonts/ and work offline; CJK glyphs use system fallbacks.
 
