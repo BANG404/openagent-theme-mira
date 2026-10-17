@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-mira",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mira: mira / neutral / neutral / neutral",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-mira",
@@ -121,7 +121,7 @@
       "i18n": {
         "supported_locales": [
           "en",
-          "zh-CN"
+          "zh"
         ],
         "default_locale": "en",
         "translations": {
@@ -129,7 +129,7 @@
             "display_name": "Mira",
             "description": "Mira: mira / neutral / neutral / neutral"
           },
-          "zh-CN": {
+          "zh": {
             "display_name": "Mira",
             "description": "Mira 主题：mira / neutral / neutral / neutral"
           }
