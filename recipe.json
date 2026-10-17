@@ -1,0 +1,15 @@
+{
+  "title": "Mira",
+  "description": "Hugeicons / Inter",
+  "style": "mira",
+  "baseColor": "neutral",
+  "theme": "neutral",
+  "chartColor": "neutral",
+  "iconLibrary": "hugeicons",
+  "font": "inter",
+  "fontHeading": "inherit",
+  "menuAccent": "subtle",
+  "menuColor": "default",
+  "radius": "default",
+  "rtl": false
+}
